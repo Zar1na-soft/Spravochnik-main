@@ -1,0 +1,113 @@
+.search-place {
+    width: 800px;
+    height: 60px;
+    margin: auto;
+    align-items: center;
+    
+}
+
+.bodyL {
+    background-color: bisque;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.title-place {
+    width: 800px;
+    height: max-content;
+    margin: auto;
+    
+}
+
+
+/* .title-place_list {
+    list-style-type: none;
+} */
+
+.title-place_list_name {
+    text-decoration: solid;
+    color:black;
+    line-height: 2;
+}
+
+.title-place_list_name:hover {
+    opacity: 70%;
+    color:brown;
+}
+
+
+.content {
+    background-color: yellow;
+    width: 50%;
+    margin-top: 50px;
+    
+}
+
+.content-opened {
+    visibility: visible;
+    opacity: 1;
+}
+
+.alfa-page {
+    display: flex;
+    background-color: bisque;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.search {
+    width: 80%;
+    height: 90%;
+}
+
+.button-go-search {
+    width: 15%;
+    height: 60%;
+    margin: auto;
+}
+
+.Article-vision {
+    width: 800px;
+    text-align: left;
+    margin: auto 20% auto 30%;
+    background-color: bisque;
+}
+
+.Article-body {
+    display: flex;
+    align-items: center;
+    background-color: bisque;
+}
+
+.Category {
+    margin: 40px auto 40px auto;
+    width: 300px;
+    height: 200px;
+    color: blue;
+}
+
+.MainPage {
+    display: flex;
+    background-color: bisque;
+    justify-content: center;
+}
+
+.MainCategory {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Back_to_main {
+    font-size: large;
+    font-weight: bold;
+}
+
+/* <div class="CategoryPlace">
+            <a class="Category">ГОСЗАКУПКИ (goszkaup.gov.kz)</a>
+            <a class="Category">Самрук-Казына (zakup.sk.kz)</a>
+            <a class="Category">Частные и квазигосударственные площадки</a>
+        </div> */
